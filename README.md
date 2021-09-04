@@ -12,6 +12,8 @@ Most importantly, it also shows when it is good to stay out of the market in tim
 
 Please keep in mind that today was the last trading day for DAX 30, because the main German index got extended with 10 more companies and will be called DAX 40 from the beginning of the next week. 
 
+I plan to adopt it for live trading, and ideas to improve the script or teaming up for further collaborations is appreciated. 
+
 Hope you enjoy :-D 
 
 And best regards
