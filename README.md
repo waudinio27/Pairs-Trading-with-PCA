@@ -9,8 +9,7 @@ Two pairs get downloaded with a choosen granularity from OANDA and are concated 
 The backtest is extended in a manner that allows to print out the actual position. Like this, it is possible to get an overview 
 of the actual situation and allows to execute a pairs trading strategy by hand. 
 Most importantly, it also shows when it is good to stay out of the market in times of choppy market regimes. 
-
-I plan to adopt it for live trading, and ideas to improve the script or teaming up for further collaborations is appreciated. 
+ 
 
 Hope you enjoy :-D 
 
